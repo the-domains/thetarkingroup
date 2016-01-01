@@ -1,14 +1,28 @@
+name: TheTarkinGroup
+favicon: null
 layout_spectrum: 0.17884
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3002148
-  brandStrength: 1
-  lightness: 0.4441461
   brandColors:
     - '#0D0A0B'
     - '#C7C5B5'
     - '#9A9B90'
     - '#5D4A5C'
     - '#FFFFFB'
+  brandStrength: 0.875
+  lightness: 0.4441461
+  saturation: 0.3002148
   rhythmicContrast: 0.716971
-typography_spectrum: 1
-name: TheTarkinGroup
+purpose: []
